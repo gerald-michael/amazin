@@ -14,7 +14,7 @@
 
 # production
 /build
-
+README.md
 # misc
 .DS_Store
 *.pem

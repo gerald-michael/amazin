@@ -1,0 +1,3 @@
+export const CART_INSERT = 'CART_INSERT'
+export const CART_INCREAMENT = 'CART_INCREAMENT'
+export const CART_REMOVE = 'CART_REMOVE'
